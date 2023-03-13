@@ -20,7 +20,7 @@ You can return the answer in any order.
 </pre></code>
 
 **Example 3:**
-<pre><code><b> Input</b>: nums = [3,3], target = 6
+<pre><code><b>Input</b>: nums = [3,3], target = 6
 <b>Output</b>: [0,1]
 </pre></code>
 
